@@ -1,0 +1,38 @@
+.dashboard {
+    display: flex;
+    background-image:url("./image/white-abstract-background.jpg");
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.dashboard_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}
+
+.dashboard_btn {
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px 5px 5px 5px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #6495ED;
+}
+
+.dashboard div {
+    margin-top: 3px;
+}
+
+#loginemail {
+    color:#00008B;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: #dcdcdc;
+}
